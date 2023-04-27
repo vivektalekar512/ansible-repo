@@ -1,2 +1,2 @@
 [webservers]
-192.168.1.29 ansible_user=jenkins
+192.168.1.28  ansible_user=node2
